@@ -5,9 +5,18 @@ Let's take a look at CPS' Progress Report Cards from 2011-2012. The database, wh
   effectively and fairly measure school performance, and to determine which schools, if any, need to be placed on
   academic probation." 
 And the levels are as follows:
-  -Level 1: Excellent Standing 
-  -Level 2: Good Standing
-  -Level 3: Probation
+  -Level 1 (Excellent Standing): Elementary schools receiving at least 71% of available points and high schools receiving at least 66.7% of available points. 
+  -Level 2 (Good Standing): Elementary schools receiving between 50-70.9% of available points and high schools receiving between 44% and 66.6% of available points.
+  -Level 3 (Probation): Elementary schools receiving less than 50% of available points and high
+schools receiving less than 44% of available points.
 I sorted the information from A-Z and compared the two categories that I mentioned. Let's take the first school at the top of the spreadsheet and the last school at the bottom and compare the two.
 Abraham Lincoln Elementary school had a level 1 CPS performance policy level and the average student attendance was at 96% in 2011-2012. William W Carter Elementary School is not the last school on the list but it's the final school to have a performance policy. In 2011-2012, the school had a level 3 policy performance level and average student attendance was at 91.20%.
-When I originally took a look at the data set I thought that there would be a direct correlation between the CPS policy performance and average school attendance. However, that's clearly not the case at all with William W Carter Elementary School. I'm not exactly sure why the two categories aren't mutually exclusive. Overall, I think that it woudld be interesting to see if the information from this database points to some of the issues that are taking place in CPS now. 
+When I originally took a look at the data set I thought that there would be a direct correlation between the CPS policy performance and average school attendance. However, that's clearly not the case at all with William W Carter Elementary School. I'm not exactly sure why the two categories aren't mutually exclusive. 
+What is mutually exclusive is the instruction score vs. the environment score. Let's go back to our two schools:
+  Abraham Lincoln Elementary School's instruction score was at 66% and the environment score was at 74% in 2011-2012. And William W Carter Elementary School's instuction score was at 35% and environment was at 33% in 2011-2012.
+  
+  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/173EMtjra1nBaAGWthxZS9fdRDJZ2_PxYFVggCb5t504/pubchart?oid=533328517&amp;format=interactive"></iframe>
+  
+  
+Overall, I think that it woudld be interesting to see if the information from this database points to some of the issues that are taking place in CPS now. 
+
